@@ -1,0 +1,63 @@
+body{
+	background-image: url(../image/po.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+img{
+	width: 30px;
+	height: 30px;
+}
+.profile{
+	border:2px solid ;
+	width: 25rem;
+	padding: 20px;
+/*	background-color: black;*/
+	color: white;
+	margin-left: 20%;	
+}
+.education{
+	float:right;
+	border:2px solid white;
+/*	background-color: #E6B0AA;*/
+	padding: 20px;
+	width: 25rem;
+	color: white;
+	
+}
+.container{
+	border:2px solid white;
+	display:flex;
+	flex-direction: row;
+}
+h2{
+	color: #DC7633;
+	font-family: Baskerville Old Face;
+	font-weight: bolder;
+}
+.name{
+/*	border:2px solid;*/
+	width: 130%;
+/*	background-color: #85929E;*/
+	color: white;
+}
+h1{
+	font-size: 20px;
+}
+/**{
+	background-image: url("../image/gif.gif");
+}
+
+*/
+.img{
+	width: 50%;
+	height: 25%;
+	border-radius: 900px;
+
+}
+p , li , b{
+	font-size: 18px;
+	font-family: algerian;
+}
